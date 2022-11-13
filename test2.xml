@@ -48,8 +48,8 @@
 				<lb/>
 				<seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0005-01.json">いつれの御時にか女御更衣あまたさふらひ給けるなかにいとやむことなきゝは</seg>
 				<lb/>
-				<seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0005-02.json">にはあらぬかすくれて時めき給ありけりはしめより我はと思あかり給へる御方</seg>
-			</p><p>あああ</p>
+				<seg corresp="https://w3id.org/kouigenjimonogatari/api/items/0005-02.json">にはあらぬかすくれて時めき給ありけりはしめより我はと思あかり給へる御方<lb/></seg>
+			</p><p><lb/>あああ</p>
 		</body>
 	</text>
 </TEI>
