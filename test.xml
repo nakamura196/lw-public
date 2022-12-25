@@ -77,4 +77,4 @@
 	}
 }]]>
         </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader> <text> <body> <div> <head>公開データの例</head> <p>サンプル<placeName cert="medium">データ</placeName></p><p><persName cert="high" type="real"><persName key="Nakamura Satoru" ref="http://www.wikidata.org/entity/Q11365996">中村覚</persName></persName>です。</p><p><persName>あああ</persName></p></div> </body> </text> </TEI>
+      </rdf:RDF></xenoData></teiHeader> <text> <body> <div> <head>公開データの例</head> <p>サンプル<placeName cert="medium">データ</placeName></p><p><persName cert="high" type="real"><persName key="Nakamura Satoru" ref="http://www.wikidata.org/entity/Q11365996">中村覚</persName></persName>です。</p><p><persName>あああ</persName></p><p>新しい行です。</p></div> </body> </text> </TEI>
