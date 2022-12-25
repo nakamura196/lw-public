@@ -112,7 +112,7 @@
 	"id": "https://raw.githubusercontent.com/nakamura196/lw-public/main/test.xml?place_annotation_20221225173404576",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-12-25T08:34:04.576Z",
-	"dcterms:modified": "2022-12-25T08:34:04.576Z",
+	"dcterms:modified": "2022-12-25T08:35:17.953Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/nakamura196",
 		"@type": [
@@ -156,4 +156,4 @@
 	}
 }]]>
         </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader> <text> <body> <div> <head>公開データの例</head> <p>サンプル<placeName cert="medium">データ</placeName></p><p><persName cert="high" type="real"><persName key="Nakamura Satoru" ref="http://www.wikidata.org/entity/Q11365996">中村覚</persName></persName>です。</p><p><persName>あああ</persName></p><p><placeName key="Shinshigai" ref="http://vocab.getty.edu/tgn/9133850">新しい</placeName>行です。</p></div> </body> </text> </TEI>
+      </rdf:RDF></xenoData></teiHeader> <text> <body> <div> <head>公開データの例</head> <p>サンプル<placeName cert="medium">データ</placeName></p><p><persName cert="high" type="real"><persName key="Nakamura Satoru" ref="http://www.wikidata.org/entity/Q11365996">中村覚</persName></persName>です。</p><p><persName>あああ</persName></p><p><placeName key="Shinshigai" ref="http://vocab.getty.edu/tgn/9133850" xml:id="abc" xml:lang="ja">新しい</placeName>行です。</p></div> </body> </text> </TEI>
